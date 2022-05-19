@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1gQ4VbuZPZNBqe3FTqLiXw+wa+NGAOlgCaWxDV4OdKRW7treMBB0Vj8s9PyxmS7hs3UOl3bq8MIB0E/0lJWgjQ==",
+  "dgSpecHash": "fjAjamgSCbOODiGxhfh/yAk/6HWk2BAGuMk5zmqDgTeeaAW4FgXVrPkxt0zZDSzgUhW6Hy4XEbClWzqktmxQ8g==",
   "success": true,
   "projectFilePath": "C:\\test\\test\\testAPP\\appTest\\appTest.csproj",
   "expectedPackageFiles": [
@@ -32,6 +32,7 @@
     "C:\\Users\\ama01\\.nuget\\packages\\microsoft.identity.web.certificate\\1.24.1\\microsoft.identity.web.certificate.1.24.1.nupkg.sha512",
     "C:\\Users\\ama01\\.nuget\\packages\\microsoft.identity.web.certificateless\\1.24.1\\microsoft.identity.web.certificateless.1.24.1.nupkg.sha512",
     "C:\\Users\\ama01\\.nuget\\packages\\microsoft.identity.web.tokencache\\1.24.1\\microsoft.identity.web.tokencache.1.24.1.nupkg.sha512",
+    "C:\\Users\\ama01\\.nuget\\packages\\microsoft.identity.web.ui\\1.24.1\\microsoft.identity.web.ui.1.24.1.nupkg.sha512",
     "C:\\Users\\ama01\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.17.0\\microsoft.identitymodel.jsonwebtokens.6.17.0.nupkg.sha512",
     "C:\\Users\\ama01\\.nuget\\packages\\microsoft.identitymodel.logging\\6.17.0\\microsoft.identitymodel.logging.6.17.0.nupkg.sha512",
     "C:\\Users\\ama01\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.17.0\\microsoft.identitymodel.protocols.6.17.0.nupkg.sha512",

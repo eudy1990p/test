@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using Microsoft.Identity.Web;
+using Microsoft.Identity.Web.UI;
 
 namespace appTest.Controllers
 {
