@@ -5,14 +5,14 @@ using Microsoft.Identity.Web.UI;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-//builder.Services.AddControllersWithViews();
-builder.Services.AddControllersWithViews(options =>
+builder.Services.AddControllersWithViews();
+/*builder.Services.AddControllersWithViews(options =>
 {
     var policy = new AuthorizationPolicyBuilder()
         .RequireAuthenticatedUser()
         .Build();
     options.Filters.Add(new AuthorizeFilter(policy));
-}).AddMicrosoftIdentityUI();
+}).AddMicrosoftIdentityUI();*/
 
 var app = builder.Build();
 

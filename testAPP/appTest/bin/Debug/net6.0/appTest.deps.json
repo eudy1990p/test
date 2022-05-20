@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "appTest/1.0.0": {
         "dependencies": {
-          "Microsoft.Identity.Web": "1.24.1"
+          "Microsoft.Identity.Web": "1.24.1",
+          "Microsoft.Identity.Web.UI": "1.24.1"
         },
         "runtime": {
           "appTest.dll": {}
@@ -250,6 +251,21 @@
         },
         "runtime": {
           "lib/net5.0/Microsoft.Identity.Web.TokenCache.dll": {
+            "assemblyVersion": "1.24.1.0",
+            "fileVersion": "1.24.1.0"
+          }
+        }
+      },
+      "Microsoft.Identity.Web.UI/1.24.1": {
+        "dependencies": {
+          "Microsoft.Identity.Web": "1.24.1"
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Identity.Web.UI.Views.dll": {
+            "assemblyVersion": "1.24.1.0",
+            "fileVersion": "1.24.1.0"
+          },
+          "lib/net5.0/Microsoft.Identity.Web.UI.dll": {
             "assemblyVersion": "1.24.1.0",
             "fileVersion": "1.24.1.0"
           }
@@ -669,6 +685,13 @@
       "sha512": "sha512-QDmN3jhJRBajAoDSEUAtkH2oxn8ti787afxkYAvHMrIAh01yWsKKxYGjABB2AjHPQnm7zp0pmV3c17Ku3sArwg==",
       "path": "microsoft.identity.web.tokencache/1.24.1",
       "hashPath": "microsoft.identity.web.tokencache.1.24.1.nupkg.sha512"
+    },
+    "Microsoft.Identity.Web.UI/1.24.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h/ITT14ZL3kun1y0Sm8EpUyOFgrz6WmZz0yeCh42k8NL3oS/RxHEPGiCHJkEYFnIGyu/7xy+NeeO2OeySyfsaw==",
+      "path": "microsoft.identity.web.ui/1.24.1",
+      "hashPath": "microsoft.identity.web.ui.1.24.1.nupkg.sha512"
     },
     "Microsoft.IdentityModel.JsonWebTokens/6.17.0": {
       "type": "package",
