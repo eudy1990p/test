@@ -2226,19 +2226,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ama01\\.nuget\\packages\\": {}
+    "C:\\Users\\Ean01\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\test\\test\\testAPP\\appTest\\appTest.csproj",
+      "projectUniqueName": "C:\\test\\testApp\\test\\testAPP\\appTest\\appTest.csproj",
       "projectName": "appTest",
-      "projectPath": "C:\\test\\test\\testAPP\\appTest\\appTest.csproj",
-      "packagesPath": "C:\\Users\\ama01\\.nuget\\packages\\",
-      "outputPath": "C:\\test\\test\\testAPP\\appTest\\obj\\",
+      "projectPath": "C:\\test\\testApp\\test\\testAPP\\appTest\\appTest.csproj",
+      "packagesPath": "C:\\Users\\Ean01\\.nuget\\packages\\",
+      "outputPath": "C:\\test\\testApp\\test\\testAPP\\appTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ama01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ean01\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

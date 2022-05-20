@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\test\\test\\testAPP\\ConsoleAppTest\\ConsoleAppTest.csproj": {}
+    "C:\\test\\testApp\\test\\testAPP\\ConsoleAppTest\\ConsoleAppTest.csproj": {}
   },
   "projects": {
-    "C:\\test\\test\\testAPP\\ConsoleAppTest\\ConsoleAppTest.csproj": {
+    "C:\\test\\testApp\\test\\testAPP\\ConsoleAppTest\\ConsoleAppTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\test\\test\\testAPP\\ConsoleAppTest\\ConsoleAppTest.csproj",
+        "projectUniqueName": "C:\\test\\testApp\\test\\testAPP\\ConsoleAppTest\\ConsoleAppTest.csproj",
         "projectName": "ConsoleAppTest",
-        "projectPath": "C:\\test\\test\\testAPP\\ConsoleAppTest\\ConsoleAppTest.csproj",
-        "packagesPath": "C:\\Users\\ama01\\.nuget\\packages\\",
-        "outputPath": "C:\\test\\test\\testAPP\\ConsoleAppTest\\obj\\",
+        "projectPath": "C:\\test\\testApp\\test\\testAPP\\ConsoleAppTest\\ConsoleAppTest.csproj",
+        "packagesPath": "C:\\Users\\Ean01\\.nuget\\packages\\",
+        "outputPath": "C:\\test\\testApp\\test\\testAPP\\ConsoleAppTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ama01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ean01\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
