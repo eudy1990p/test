@@ -1,0 +1,15 @@
+Graph console app
+
+Id. de aplicación (cliente)
+3716bdcd-9453-49fa-acb6-57ba8e902e3d
+Identificador de objeto
+2926ca22-e7e4-4d56-bf61-20f8a0ecc28c
+Id. de directorio (inquilino)
+5efb5ecb-0fb4-4384-a2e2-bb54fc973112
+
+
+Secreto 
+value 
+qvC8Q~R5cPMOIExG9It4TgQrxSdDPyU_Kymh5b6M
+id
+5e09111e-9611-47d0-8f73-17f70a88848a
